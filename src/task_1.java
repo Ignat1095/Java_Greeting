@@ -46,9 +46,9 @@ public class task_1 {
 
 
     // Рандомное число от Min до Max
-    public static int getRandom_X(int min, int max) {
-        return (int) (Math.random() * ((max - min) + 1)) + min;
-    }
+//    public static int getRandom_X(int min, int max) {
+//        return (int) (Math.random() * ((max - min) + 1)) + min;
+//    }
 
 
     //    номер старшего значащего бита выпавшего числа
@@ -64,7 +64,7 @@ public class task_1 {
 
     //    Найти все кратные n числа в диапазоне от i до Short.MAX_VALUE сохранить в массив m1
     public static int[] multiples_n(int i, int n){
-        int[] m1 = new int[10];                             //TODO
+        int[] m1 = new int[100];                             //TODO
 
         for (int j = 0; i < Short.MAX_VALUE ; j++) {
             if (j % n ==0){
@@ -79,7 +79,7 @@ public class task_1 {
 
     //    Найти все некратные n числа в диапазоне от Short.MIN_VALUE до i и сохранить в массив m2
     public static int[] not_multiples_n(int i, int n){
-        int[] m2 = new int[10];                                 //TODO
+        int[] m2 = new int[100];                                 //TODO
         int min_value = Short.MIN_VALUE;
 
         for (int j = 0; min_value < i ; min_value++) {
