@@ -53,9 +53,34 @@ public class task_2 {
 
 
 //        6.
-        System.out.println("\n6) Замените символ “=” на слово “равно”, спомощью методов: \n" +
+        System.out.println("\n6) Замените символ “=” на слово “равно”, " +
+                "с помощью методов: \n" +
                 "StringBuilder.replace(). \n");
         System.out.println(replaceEquals(summa));
+
+//        7.
+        System.out.println("Сравнить время выполнения пунка 6 " +
+                "со строкой содержащей 10000 символов \"=\" " +
+                "средствами String и StringBuilder.");
+        long start1 = System.currentTimeMillis();
+        StringBuilder rep1 = new StringBuilder();
+
+        for (int index = 0; index < 10000; index++) {
+            rep1.append('=');
+        }
+
+        rep1 = rep1.replace(0, 6, "равно ");
+        long stop1 = System.currentTimeMillis();
+
+        long start2 = System.currentTimeMillis();
+        String rep2 = "=".repeat(10000);
+
+        rep2 = rep2.replace("=", "равно ");
+        long stop2 = System.currentTimeMillis();
+
+
+        System.out.println("StringBuilder работал : " + (stop1-start1) + " (милисекунд)");
+        System.out.println("String работал : " + (stop2-start2) + " (милисекунд)");
     }
 
 //    ===============================================================
@@ -99,6 +124,8 @@ public class task_2 {
             count += 1;
         }
         return newSumma;
+
+
     }
 
 //    6
@@ -114,7 +141,5 @@ public class task_2 {
             count += 1;
         }
         return newSumma2;
-}
-
-
+    }
 }
