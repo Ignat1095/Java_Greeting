@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c658a196-1d8c-495a-95d1-dbd8f14d0a61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669739964267</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task_2 +7 задание">
+      <created>1669744379555</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669744379555</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,23 +117,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="task_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/lesson2.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/task_2.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="task_2 +7 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_2 +7 задание" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Greeting$lesson2.ic" NAME="lesson2 Coverage Results" MODIFIED="1669659152483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
