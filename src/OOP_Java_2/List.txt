@@ -1,0 +1,11 @@
+
+Cat:{nickname='Marsa', legs=4, owner='Ignat'}
+
+
+Dog:{nickname='Zig', legs=4, owner='Zag'}
+
+Duck{nickname='Donald', legs=2, owner='Ivan'}
+Eagle{nickname='Rocket', legs=2, owner='Quill'}
+
+Octopus:{nickname='Octavius', legs=8, owner='Piter Parker'}
+

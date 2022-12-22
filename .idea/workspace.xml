@@ -4,17 +4,9 @@
     <option name="SCOPE_TYPE" value="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c658a196-1d8c-495a-95d1-dbd8f14d0a61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="c658a196-1d8c-495a-95d1-dbd8f14d0a61" name="Changes" comment="OOP_Java_2">
+      <change afterPath="$PROJECT_DIR$/src/OOP_Java_2/List.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Greeting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Greeting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Java/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/Bread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Java/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/Milk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Java/SodaWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/SodaWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Java/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/VendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671723742861</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="OOP_Java_2">
+      <created>1671727148648</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671727148648</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +217,7 @@
     <MESSAGE value="task_3" />
     <MESSAGE value="task_4,5,6" />
     <MESSAGE value="OOP_Java_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP_Java_1" />
+    <MESSAGE value="OOP_Java_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP_Java_2" />
   </component>
 </project>
