@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c658a196-1d8c-495a-95d1-dbd8f14d0a61" name="Changes" comment="task_3">
-      <change afterPath="$PROJECT_DIR$/src/task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_6.java" afterDir="false" />
+    <list default="true" id="c658a196-1d8c-495a-95d1-dbd8f14d0a61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OOP_Java/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Java/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Java/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Java/SodaWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Java/VendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +50,20 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Python/Udemy Практика&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task_6">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Java.Main" />
+      <module name="Java_Greeting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_4" />
       <module name="Java_Greeting" />
@@ -71,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.task_6" />
         <item itemvalue="Application.task_5" />
         <item itemvalue="Application.task_4" />
@@ -123,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670273299277</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task_4,5,6">
+      <created>1671186024447</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671186024447</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +182,7 @@
     <MESSAGE value="task_2" />
     <MESSAGE value="task_2 +7 задание" />
     <MESSAGE value="task_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_3" />
+    <MESSAGE value="task_4,5,6" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_4,5,6" />
   </component>
 </project>
