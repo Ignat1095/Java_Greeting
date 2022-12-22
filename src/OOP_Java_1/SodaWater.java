@@ -1,4 +1,4 @@
-package OOP_Java;
+package OOP_Java_1;
 
 public class SodaWater extends Product{
     public SodaWater(String name, double price, String flavor){

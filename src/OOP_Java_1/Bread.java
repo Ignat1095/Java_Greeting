@@ -1,4 +1,4 @@
-package OOP_Java;
+package OOP_Java_1;
 
 public class Bread extends Product {
     public Bread(String name, int price, double weight){

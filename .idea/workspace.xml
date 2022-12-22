@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c658a196-1d8c-495a-95d1-dbd8f14d0a61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP_Java/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Java/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Java/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Java/SodaWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Java/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Greeting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Greeting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Java/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Java/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Java/SodaWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/SodaWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Java/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Java_1/VendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,25 +47,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/Udemy Практика&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Python/Udemy Практика",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.OOP_Java_2.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java_Greeting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_Java.Main" />
+      <option name="MAIN_CLASS_NAME" value="OOP_Java_1.Main" />
       <module name="Java_Greeting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_Java.*" />
+          <option name="PATTERN" value="OOP_Java_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,16 +91,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_4" />
+    <configuration name="OOP_Java_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Java_2.Main" />
       <module name="Java_Greeting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_5" />
-      <module name="Java_Greeting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Java_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,10 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP_Java_2.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.task_6" />
-        <item itemvalue="Application.task_5" />
-        <item itemvalue="Application.task_4" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671186024447</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="OOP_Java_1">
+      <created>1671723742861</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671723742861</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +217,7 @@
     <MESSAGE value="task_2 +7 задание" />
     <MESSAGE value="task_3" />
     <MESSAGE value="task_4,5,6" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_4,5,6" />
+    <MESSAGE value="OOP_Java_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP_Java_1" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package OOP_Java;
+package OOP_Java_1;
 
 public class Milk extends Product {
     public Milk(String name, double price,int volume) {
