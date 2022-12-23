@@ -1,6 +1,6 @@
 package OOP_Java_2;
 
-public class Duck extends Animal implements Speakable,Runable,Flyable {
+public class Duck extends Animal implements Speakable,Runable,Flyable, Swimable {
 
     public Duck(String nickname, int legs, String owner) {
         super(nickname, legs, owner);
@@ -25,5 +25,8 @@ public class Duck extends Animal implements Speakable,Runable,Flyable {
     public String toString() {
         return "Duck" + super.toString();
     }
+
+    @Override
+    public int swimSpeed() { return 7; }
     
 }
